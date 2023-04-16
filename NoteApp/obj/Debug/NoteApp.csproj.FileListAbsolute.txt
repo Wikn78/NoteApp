@@ -1,0 +1,11 @@
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
+C:\Users\winkp\RiderProjects\NoteApp\NoteApp\obj\Debug\NoteApp.Form1.resources
